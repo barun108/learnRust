@@ -5,4 +5,5 @@
 fn main () {
         
     println!("Hello World");
+    println!("Hare Krishna");
 }
